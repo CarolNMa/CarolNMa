@@ -1,5 +1,4 @@
 
-
 ## 👤 Perfil Personal
 
 - **Nombre:** Carol 
@@ -38,6 +37,8 @@
 </p>  
 
 #### **Herramientas**
+
+ <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100" align="right">
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
@@ -45,8 +46,11 @@
 
 </p>
 
+
 ---
 
-## 🌟 Objetivo Profesional
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80" align="right">
+ 
+### 🌟 Objetivo Profesional
+
  Seguir aprendiendo y desarrollando proyectos que me permitan aplicar mis conocimientos en el mundo real, contribuyendo a soluciones tecnológicas útiles y funcionales.
